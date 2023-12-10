@@ -1,7 +1,7 @@
 # MyLibrary
 ## Installation 
 
-To install this package, import `url here` in SPM
+To install this package, import `https://github.com/utsav475908/MyLibrary/tree/feature` in SPM
 
 ## Usage Example
 
